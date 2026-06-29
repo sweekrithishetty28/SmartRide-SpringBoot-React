@@ -304,21 +304,16 @@ git push origin feature/your-feature-name
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: [@Sweekrithi Shetty](https://github.com/sweekrithishetty28)
+- LinkedIn: [Sweekrithi Shetty](www.linkedin.com/in/sweekrithi-shetty28)
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 
 ⭐ **If you found this helpful, please give it a star!** ⭐
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Sweekrithi Shetty
 
 </div>
