@@ -31,15 +31,16 @@ build/
 logs/
 spring-shell.log
 
-# Application secrets / config
+# Application secrets / config - IGNORE ALL
+src/main/resources/application.properties
 src/main/resources/application-local.properties
 src/main/resources/application-prod.properties
 src/main/resources/application-dev.properties
 src/main/resources/application-secret.properties
 
-# Keep application.properties but ignore secrets
-# Uncomment below if you want to ignore application.properties too
-# src/main/resources/application.properties
+# Also ignore .idea folder (IDE files - already committed, see commands below)
+.idea/
+*.iml
 
 # IDE files
 .idea/
@@ -79,3 +80,11 @@ surefire-reports/
 
 # Swagger / API docs generated
 api-docs/
+
+# IDE
+.idea/
+*.iml
+
+# Secrets
+**/application.properties
+!**/application.properties.example
