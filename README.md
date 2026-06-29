@@ -29,7 +29,7 @@
 - [Environment Variables](#-environment-variables)
 - [API Endpoints](#-api-endpoints)
 - [Contributing](#-contributing)
-- [License](#-license)
+
 
 ---
 
